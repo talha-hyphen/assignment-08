@@ -1,6 +1,13 @@
-
-
-
+//3. Write a js program to check whether a number is negative, positive or zero.
+//var userInput = prompt("Enter to Check a Number.")
+//if (userInput<0) {
+  //  alert("Number is Negative.")
+//}
+//else if (userInput>0) {
+ //   alert("Number is Postive.")
+//}else if (userInput==0) {
+ //   alert("Number is Zero.")
+//}
 
 
 
