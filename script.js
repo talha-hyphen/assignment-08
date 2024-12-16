@@ -1,3 +1,19 @@
+//6. Write a js program to check whether a year is leap year or not.a js program to check whether a character is alphabet or not.
+//var leapYear = prompt("Enter a year to check it whether is it Leap year or not.")
+//if (leapYear%4 == 0)
+//{
+ //   alert("This is a Leap year.")
+//}
+//else if(leapYear%4!=0)
+//{
+ //   alert("This is not a Leap year.")
+//}
+
+
+
+
+
+
 //5. Write a js program to check whether a number is even or odd.
 //var NUMBER = prompt("Enter a Number to Check either Even or Odd. ")
 //if (NUMBER % 2 == 0) {
