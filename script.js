@@ -1,3 +1,16 @@
+//4. Write a js program to check whether a number is divisible by 5 and 11 or not.
+var userNumber = prompt("Enter a Number to check whether divisible by 5 or 11.")
+if (userNumber%5==0) {
+    alert("Number is divisible by '5'.")
+}
+else if (userNumber%11==0) {
+    alert("Number is divisible by '11'.")
+}
+else if (userNumber%5 !=0||userNumber%11 !=0) {
+    alert("Number is neither divisible by '5' and '11'. ")
+}
+
+
 //3. Write a js program to check whether a number is negative, positive or zero.
 //var userInput = prompt("Enter to Check a Number.")
 //if (userInput<0) {
