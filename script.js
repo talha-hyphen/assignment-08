@@ -1,3 +1,13 @@
+//5. Write a js program to check whether a number is even or odd.
+//var NUMBER = prompt("Enter a Number to Check either Even or Odd. ")
+//if (NUMBER % 2 == 0) {
+ //   alert("Number is Even.")
+//}
+//else if (NUMBER % 2 != 0){alert("Number is Odd.")}
+
+
+
+
 //4. Write a js program to check whether a number is divisible by 5 and 11 or not.
 //var userNumber = prompt("Enter a Number to check whether divisible by 5 or 11.")
 //if (userNumber%5==0) {
