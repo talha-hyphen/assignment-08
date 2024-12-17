@@ -1,12 +1,32 @@
+//14. Write a js program to input angles of a triangle and check whether triangle is valid or not.
+//var triangle = alert("Enter three angles to check, Triangle is valid or not.")
+//var a =  parseInt(prompt("Enter First anlge."))
+//var b =  parseInt(prompt("Enter Second angle."))
+//var c = parseInt(prompt("Enter Third angle."))
+//var abc = a+b+c
+//if(a>0 && b>0 && c>0){
+ //if (abc === 180) {
+//alert("Triangle is Valid.")
+//}
+//else  {
+  //alert("Trianlge is not Valid.")
+//}
+//}
+//else  {
+ // alert("Trianlge is not Valid.")
+//}
+
+
+
 //6. Write a js program to check whether a year is leap year or not.a js program to check whether a character is alphabet or not.
 //var leapYear = prompt("Enter a year to check it whether is it Leap year or not.")
 //if (leapYear%4 == 0)
 //{
- //   alert("This is a Leap year.")
+  //  alert("This is a Leap year.")
 //}
-//else if(leapYear%4!=0)
+//else(leapYear%4!=0)
 //{
- //   alert("This is not a Leap year.")
+  //  alert("This is not a Leap y")
 //}
 
 
