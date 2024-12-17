@@ -1,3 +1,20 @@
+//15. Write a js program to input all sides of a triangle and check whether triangle is valid or not.
+//var sideTri = alert("Enter three side of tiangle and Check whether a triangle is Valid or not.")
+//var s1 = parseInt(prompt("Enter 1st side."))
+//var s2 = parseInt(prompt("Enter 2nd side."))
+//var s3 = parseInt(prompt("Enter 3rd side."))
+//if (s1>0 && s2>0 && s3>0) {
+ // if (s1+s2>s3 && s2+s3>s1 && s3+s1>s2) {
+ //   alert("Triangle is Valid.")}
+ //   else{alert("Triangle is not valid.")}
+//}
+//else{alert("Triangle is not valid.")}
+
+
+
+
+
+
 //14. Write a js program to input angles of a triangle and check whether triangle is valid or not.
 //var triangle = alert("Enter three angles to check, Triangle is valid or not.")
 //var a =  parseInt(prompt("Enter First anlge."))
